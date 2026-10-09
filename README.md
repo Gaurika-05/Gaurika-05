@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gaurika</h1>
-<h3 align="center">🎓 2nd year B.Tech Computer Science student 💻 Passionate about learning Web Development and Problem Solving 🌱 Currently exploring Java, Python, and DSA 📍 From India</h3>
+<h3 align="center">🎓 3rd year B.Tech Computer Science student 💻 Passionate about learning Web Development and Problem Solving 🌱 Currently exploring Java, Python, and DSA 📍 From India</h3>
 
 - 🌱 I’m currently learning **Frontend Development (HTML,CSS,JavaScript)**
 
